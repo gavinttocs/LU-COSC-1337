@@ -1,7 +1,7 @@
 /**
  * Objective: Create a vertical and horizontal slider to control a line of text's orientation
  * Algorithm: Using lambda expressions, create listeners to control the direction of the line of text
- * Input and Output: The suer will move the sliders displayed and the line of text will follow the path placed by the two sliders
+ * Input and Output: The user will move the sliders displayed and the line of text will follow the path placed by the two sliders
  * Created by: Gavin Scott
  * Date: 04/2/22
  * Version: JDK 16.0.2
